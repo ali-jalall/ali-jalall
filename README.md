@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Jalal</h1>
 <h3 align="center">A passionate frontend developer and UI designer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-jalall&label=Profile%20views&color=0e75b6&style=flat" alt="ali-jalall" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ali-jalall" alt="ali-jalall" /></a> </p>
 
 - 🔭 I’m currently working on **something awesome**
 
